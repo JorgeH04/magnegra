@@ -1047,15 +1047,15 @@ header{
 
 .about-page-content{
     display: grid;
-    grid-row-gap: 20px;    
-}
+    grid-row-gap: 20px; 
+ }
 
 .about-page-content h2{
     font-size: 20px;
 }
 
 .about-page-title-line{
-    border-bottom: 2px solid blueviolet;
+    border-bottom: 2px solid violet;
     width: 40px;
     margin: 10px 0 10px 5px;
 }
@@ -1146,7 +1146,7 @@ header{
     }
 
     .about-page-title-line{
-        border-bottom: 2px solid blueviolet;
+        border-bottom: 2px solid violet;
         width: 60px;
         margin: 15px 0 20px 5px;
         
