@@ -49,10 +49,10 @@ input, textarea {
 .section-title h2{
     font-size: 24px;
     text-align: center;
-}
+ }
 
 .title-line{
-    border: 1px solid #2388ED;
+    border: 1px solid violet;
     width: 40px;
     margin-left: auto;
     margin-right: auto;
@@ -69,7 +69,7 @@ input, textarea {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid #2388ED;
+    border: 2px solid violet;
     width: 150px;
     height: 40px;    
 }
@@ -78,7 +78,7 @@ input, textarea {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #2388ED;
+    background-color: violet;
     font-size: 16px;
     font-weight: 700;
     width: 150px;
@@ -234,7 +234,7 @@ header{
 
 .menu-btn i{
     font-size: 30px;
-    color: #2388ED;
+    color: violet;
     cursor: pointer;
 }
 
