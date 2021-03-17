@@ -876,7 +876,7 @@ header{
 }
 
 .footer-title-line{
-    border-bottom: 1px solid #2388ED;
+    border-bottom: 1px solid black;
     width: 100%;
     margin-top: 10px;  
     margin-bottom: 15px;
@@ -900,7 +900,7 @@ header{
 
 .footer-nav i{
     font-size: 8px;
-    color: #2388ED;
+    color: black;
     margin-right: 10px;
 }
 
@@ -956,7 +956,7 @@ header{
 }
 
 .footer-social ul li{
-    background-color: #2388ED;
+    background-color: black;
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -1263,8 +1263,8 @@ header{
 }
 
 .page-pagination-active a{
-    border: 1px solid #2388ED;
-    background-color: #2388ED;
+    border: 1px solid black;
+    background-color: black;
     color: #fff;
 }
 
@@ -1322,7 +1322,7 @@ header{
     font-size: 22px;
 }   
 .news-details-line-title{
-    border-bottom: 2px solid #2388ED;
+    border-bottom: 2px solid black;
     width: 100%;
     margin: 15px 0;
 }
