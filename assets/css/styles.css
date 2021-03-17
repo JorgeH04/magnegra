@@ -10,6 +10,9 @@ body, p{
     font-size: 16px;
     line-height: 25px;
     font-weight: 300;
+
+    background-color: black;
+    color:aliceblue
 }
 
 h1,h2,h3,h4,h5,a{
@@ -205,11 +208,14 @@ input, textarea {
 
 /*================== HEADER ===================*/
 
-/*EN VERSION CELULAR ESTA TODO NORMAL, LA ALTURA DEL HEADER ES CONTROLADA POR EL ".HEADER-CONTENT", TODO CAMBIA A LOS 768PX; DONDE LA ALTURA VA A SER CONTROLADA POR "HEADER"*/
+/*EN VERSION CELULAR ESTA TODO NORMAL,     background: #fff;
+LA ALTURA DEL HEADER ES CONTROLADA POR EL ".HEADER-CONTENT", TODO CAMBIA A LOS 768PX; DONDE LA ALTURA VA A SER CONTROLADA POR "HEADER"*/
 
 header{
     width: 100%;
-    background: #fff;
+    background-color: black;
+    color: seashell
+
 }
 
 .header-content{
@@ -219,6 +225,7 @@ header{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+
 }
 
 .header-logo img{
